@@ -1,3 +1,3 @@
 ﻿# FilmList-Ecmascript6
 ## Bu projede bir film listesi formu oluşturdum. Bu formda listeye Film ekleyebilir, çıkarabilir ve tüm listeyi silebilirsiniz. Projeyi ilk önce es5 versiyonuna göre kodladıktan sonra es6 versiyonuna çevirdim. Bu şekil yapmamda ki amaç ilk önce es5 protosype kavramını kavramak daha sonra da es6 clas yapısnı pekiştirmekti
-![alt text](screencapture-127-0-0-1-5500-FilmProjesi-index-html-2022-10-13-18_30_43.png)
+![alt text](screencapture-127-0-0-1-5500-FilmProjesi-index-html-2022-10-13-18_39_55.png)
