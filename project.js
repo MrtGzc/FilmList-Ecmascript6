@@ -34,12 +34,8 @@ function whenClick(e){
 }
 
 function clickForDelete(e){
-    if(e.target.className === "btn btn-danger"){
-        console.log("oldu");
-        e.target.parentElement.parentElement.remove()
-        Storage.deleteMovieFromStorage(e);
-    }
-       
+    e.target.parentElement.parentElement.remove()
+    Storage.deleteMovieFromStorage(e);
 }
 
 function clickForClearAllMovies(){
