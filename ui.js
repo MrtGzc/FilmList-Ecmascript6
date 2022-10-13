@@ -11,7 +11,7 @@ class UI{
         <tr>
             <td>${newMovie.name}</td>
             <td>${newMovie.director}</td>
-            <td>${newMovie.url}</td>
+            <td><img src="${newMovie.url}" style: width= 75% height= 100vh;></td>
             <td><a class="btn btn-danger">Filmi Sil</a></td>
         </tr>
         `
@@ -40,7 +40,7 @@ class UI{
         <tr>
             <td>${movie.name}</td>
             <td>${movie.director}</td>
-            <td>${movie.url}</td>
+            <td><img src="${movie.url}" style: width= 75% height= 100vh;></td>
             <td><a class="btn btn-danger">Filmi Sil</a></td>
         </tr>
         `
